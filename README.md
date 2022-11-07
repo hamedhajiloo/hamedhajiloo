@@ -3,6 +3,7 @@ Welcom to my page!
 I'm Hamed, Fullstack .NET Developer.
 I’m currently working on [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)
 
+![Hamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamedhajiloo&theme=onedark&show_icons=true)
 
 <!--
 **hamedhajiloo/hamedhajiloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
