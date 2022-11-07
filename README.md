@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey👋 Nice to see you.
+Welcom to my page!
+I'm Hamed, Fullstack .NET Developer.
+I’m currently working on [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)
+
 
 <!--
 **hamedhajiloo/hamedhajiloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
